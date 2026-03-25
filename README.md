@@ -16,19 +16,19 @@ AlphaPulse is a financial analytics project built using Python and Power BI to m
 
 ## Project Workflow
 
-### Week 1 – Data Collection
+### Week 1 – Data Acquisition & Cleaning
 - Collected stock data using yfinance  
 - Selected 10 stocks + S&P 500  
 - Cleaned and prepared dataset  
 
-### Week 2 – Analysis
+### Week 2 – Quantitative Analysis
 - Calculated log returns  
 - Rolling volatility (30-day)  
 - Correlation matrix  
 - Value at Risk (VaR)  
 - Monte Carlo simulation  
 
-### Week 3 – Dashboards
+### Week 3 – Visual Storytelling
 - Market Overview  
 - Portfolio Performance  
 - Risk & Volatility Monitor  
@@ -66,6 +66,3 @@ images/
 
 ## Key Outcome
 This project helps investors understand portfolio risk, simulate market scenarios, and forecast future performance using data-driven insights.
-
-## Author
-Jyothi Golla
